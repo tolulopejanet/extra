@@ -1,2 +1,3 @@
 # extra
-my name is tolulope faleye. I am practicing how to make some changes to my github account.
+# Practice on how to make some changes to my github account.
+I am actually practicing
